@@ -6,9 +6,9 @@
         "start": "node app.js"
     },
     "dependencies": {
-        "express": "*",
-        "mongodb": "*",
-        "forever": "*",
-        "mongoose": "*"
+        "express": "4.3.0",
+        "mongodb": "1.4.5",
+        "forever": "0.11.1",
+        "mongoose": "3.8.10"
     }
 }
