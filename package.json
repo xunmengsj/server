@@ -7,7 +7,6 @@
     },
     "dependencies": {
         "express": "*",
-        "jade": "*",
         "mongodb": "*",
         "forever": "*",
         "mongoose": "*"
