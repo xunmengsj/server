@@ -13,7 +13,7 @@ var mongodb = require('mongodb');
 var app = express();
 
 // all environments
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 80);
 app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'view')));
 
